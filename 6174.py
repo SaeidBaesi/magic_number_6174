@@ -20,6 +20,9 @@ while True:
             if subtract == 0:
                 print('''This number can't reach 6174''')
                 break
+            # Adding 0 to numbers with 3 digits.
+            if subtract < 1000:
+                subtract = subtract * 10
             counter += 1
             num = str(subtract)
     else:

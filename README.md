@@ -7,4 +7,4 @@
     4.Go back to step 2 and repeat.
 For more info visit: https://en.wikipedia.org/wiki/6174_(number)
 
-Code that i have writen show you that algorithm.
+Code show you that algorithm.
